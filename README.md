@@ -1,6 +1,6 @@
 # vue_router
 
-> A Vue.js project
+> A Vue.js project 基于vue一个购物网站
 
 ## Build Setup
 
